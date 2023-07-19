@@ -1,3 +1,12 @@
+## 下载
+
+我们在这里介绍两种下载文件的方式：
+
+1. 你当然可以克隆或者下载整个项目，但因为整个项目较大，可能对于一部分人不太方便。这里对于使用Chrome和Firefox的用户，我们推荐一个[Chrome插件](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn?hl=en)和[Firefox插件](https://addons.mozilla.org/en-US/firefox/addon/gitzip/)，**GitZip**。该插件可以让我们只下载项目中我们感兴趣的那些文件夹，也就是我们所感兴趣的课程的资料。同时对Opera用户来说，大部分的Chrome插件都可以通过一款名为[Install Chrome Extensions](https://addons.opera.com/zh-cn/extensions/details/install-chrome-extensions/)的Opera插件安装使用，GitZip也不例外。而对于使用其他浏览器的朋友来说，很遗憾，这个插件暂时只能在这三款浏览器中使用。
+2. 或者复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择**download**即可。
+
+注：对于第一种方法而言，它需要使用者拥有github账号，并且该插件需要使用者的授权；而第二种方法虽然一次只能下载一个文件夹，但它并不需要使用者拥有github账号。
+
 ## 贡献
 
 **欢迎贡献！**
