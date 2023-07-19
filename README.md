@@ -37,7 +37,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 方法二、`Pull Request`：
 
-首先`Fork`本仓库，然后上传文件到文件夹（或自己新建文件夹），点击提交`Pull Request`。
+首先在右上角`Fork`本仓库，然后上传文件到文件夹（或自己新建文件夹），最后点击提交`Pull Request`。
 
 > 贡献具体操作详见[贡献方法](https://github.com/npu-cs/Course-Material/blob/main/贡献方法.md)
 
