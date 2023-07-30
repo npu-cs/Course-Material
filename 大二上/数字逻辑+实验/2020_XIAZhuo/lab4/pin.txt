@@ -1,0 +1,12 @@
+
+run.qsf
+
+PIN_Y2 -to clk
+PIN_H19 -to out[7]
+
+......
+
+PIN_G19 -to out[0]
+PIN_M23 -to rst
+
+
