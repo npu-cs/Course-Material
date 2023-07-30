@@ -12,7 +12,7 @@
 
 - 微积分（上）
 - 线性代数
-- [程序设计基础 III 及实验](https://github.com/npu-cs/Course-Material/tree/main/大一上/程序设计基础 III 及实验-含cpp程设)
+- [程序设计基础 III 及实验](https://github.com/npu-cs/Course-Material/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%20III%20%E5%8F%8A%E5%AE%9E%E9%AA%8C-%E5%90%ABcpp%E7%A8%8B%E8%AE%BE)
 - 计算机系统基础及实验
 
 ## 大一下 + 小学期
