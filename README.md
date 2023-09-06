@@ -4,7 +4,7 @@
 
 ## 前言
 
-> **重要：** 此项目刚成立不久，亟需各类资料与攻略的填充，课程目录见[CS课程目录（大一）](https://github.com/npu-cs/Course-Material/blob/main/CS课程目录（大一）.md)，大二及以上目录有待更新，正值暑假，欢迎同学们上传任意你认为值得上传的课程攻略及资料，包括并不限于我们所列范围，感谢！
+> **重要：** 此项目刚成立不久，亟需各类资料与攻略的填充，课程目录见[CS课程目录](https://github.com/npu-cs/Course-Material/blob/main/CS课程目录.md)，正值暑假，欢迎同学们上传任意你认为值得上传的课程攻略及资料，包括并不限于我们所列范围，感谢！
 
 来到西工大的第一年，我从第一次接触这些课程，到一门门完成，在这过程中，作为信息类专业的学生，我惊讶于学校里资料与课程情报的封闭性：
 
@@ -21,15 +21,6 @@
 > 注意：本项目的侧重并不在于资料与攻略的即时更新，而是想要将其得以更有效地，合理地归档，加以众人持之不断的贡献，将本科的学习质量一代又一代地提高。
 
 > P.S. 对于贩卖现象，除了专业贩子和涉及学术诚信的交易，绝大多数出售的同学都是希望自己的脑力劳动能有一份小外快，但换一个方面想，迟早也会有有求于他人手中资料的时刻，这往往会是一场零和甚至负和博弈，而相同境遇下，贡献往往是一场正和博弈，享受到更多资源带来的红利。
-
-## 下载
-
-我们在这里介绍两种下载文件的方式：
-
-1. 你当然可以克隆或者下载整个项目，但因为整个项目较大，可能对于一部分人不太方便。这里对于使用Chrome和Firefox的用户，我们推荐一个[Chrome插件](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn?hl=en)和[Firefox插件](https://addons.mozilla.org/en-US/firefox/addon/gitzip/)，**GitZip**。该插件可以让我们只下载项目中我们感兴趣的那些文件夹，也就是我们所感兴趣的课程的资料。同时对Opera用户来说，大部分的Chrome插件都可以通过一款名为[Install Chrome Extensions](https://addons.opera.com/zh-cn/extensions/details/install-chrome-extensions/)的Opera插件安装使用，GitZip也不例外。而对于使用其他浏览器的朋友来说，很遗憾，这个插件暂时只能在这三款浏览器中使用。
-2. 或者复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择**download**即可。
-
-注：对于第一种方法而言，它需要使用者拥有github账号，并且该插件需要使用者的授权；而第二种方法虽然一次只能下载一个文件夹，但它并不需要使用者拥有github账号。
 
 ## 贡献
 
@@ -60,6 +51,15 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 首先在右上角`Fork`本仓库，然后上传文件到文件夹（或自己新建文件夹），最后点击提交`Pull Request`。
 
 > 贡献具体操作详见[贡献方法](https://github.com/npu-cs/Course-Material/blob/main/贡献方法.md)
+
+## 下载
+
+我们在这里介绍两种下载文件的方式：
+
+1. 你当然可以克隆或者下载整个项目，但因为整个项目较大，可能对于一部分人不太方便。这里对于使用Chrome和Firefox的用户，我们推荐一个[Chrome插件](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn?hl=en)和[Firefox插件](https://addons.mozilla.org/en-US/firefox/addon/gitzip/)，**GitZip**。该插件可以让我们只下载项目中我们感兴趣的那些文件夹，也就是我们所感兴趣的课程的资料。同时对Opera用户来说，大部分的Chrome插件都可以通过一款名为[Install Chrome Extensions](https://addons.opera.com/zh-cn/extensions/details/install-chrome-extensions/)的Opera插件安装使用，GitZip也不例外。而对于使用其他浏览器的朋友来说，很遗憾，这个插件暂时只能在这三款浏览器中使用。
+2. 或者复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择**download**即可。
+
+注：对于第一种方法而言，它需要使用者拥有github账号，并且该插件需要使用者的授权；而第二种方法虽然一次只能下载一个文件夹，但它并不需要使用者拥有github账号。
 
 ## 平台 
 
