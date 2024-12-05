@@ -13,7 +13,7 @@
 - 微积分（上）
 - 线性代数
 - [程序设计基础 III 及实验](https://github.com/npu-cs/Course-Material/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%20III%20%E5%8F%8A%E5%AE%9E%E9%AA%8C-%E5%90%ABcpp%E7%A8%8B%E8%AE%BE)
-- 计算机系统基础及实验
+- [计算机系统基础及实验](https://github.com/npu-cs/Course-Material/blob/main/大一上/计算机系统基础)
 
 ## 大一下 + 小学期
 
@@ -45,7 +45,7 @@
 - 大学物理 II（下）
 - 大学物理实验 I（下）
 - 复变函数与积分变换
-- 算法设计与分析及实验
+- [算法设计与分析及实验](https://github.com/npu-cs/Course-Material/blob/main/大二上/算法设计与分析)
 - [数字逻辑设计及实验](https://github.com/npu-cs/Course-Material/blob/main/大二上/数字逻辑设计及实验)
 - 金工实习 A
 
@@ -61,7 +61,7 @@
 - 概率论与数理统计
 - 计算方法
 - 计算机组成与系统结构及实验
-- 信号与系统分析及实验
+- [信号与系统分析及实验](https://github.com/npu-cs/Course-Material/blob/main/大二下/信号与系统分析及实验)
 - [高级语言程序设计及实验](https://github.com/npu-cs/Course-Material/blob/main/大二下/高级语言程序设计及实验)
 - 电子实习 A
 
@@ -70,8 +70,8 @@
 ### 数理与专业类：
 
 - 数据库原理及实验
-- 计算机网络原理及实验
-- 计算机操作系统及实验
+- [计算机网络原理及实验](https://github.com/npu-cs/Course-Material/blob/main/大三上/计算机网络)
+- [计算机操作系统及实验](https://github.com/npu-cs/Course-Material/blob/main/大三上/操作系统实验)
 
 ## 大三下
 
