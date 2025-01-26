@@ -1,10 +1,10 @@
 # 西工大计算机专业课程攻略 | npu-cs/Course-Material
 
-受 [上海交通大学](https://github.com/SurviveSJTU/SurviveSJTUManual)、[浙江大学](https://github.com/QSCTech/zju-icicles)、[清华大学](https://github.com/PKUanonym/REKCARC-TSC-UHT)、[哈尔滨工业大学-深圳](https://github.com/hewei2001/HITSZ-OpenCS)、[四川大学](https://github.com/SCU-CS-Runner/SurviveSCUManual)、[北京航空航天大学](https://github.com/TheBloodthirster/BUAA_Course_Sharing)、[电子科技大学](https://github.com/Xovee/uestc-course) 等相关项目启发，创立了本项目。
+受 [上海交通大学](https://github.com/SurviveSJTU/SurviveSJTUManual)、[浙江大学](https://github.com/QSCTech/zju-icicles)、[清华大学](https://github.com/PKUanonym/REKCARC-TSC-UHT)、[哈尔滨工业大学-深圳](https://github.com/hewei2001/HITSZ-OpenCS)等相关项目启发，创立了本项目。
 
 ## 前言
 
-> **重要：** 此项目刚成立不久，亟需各类资料与攻略的填充，课程目录见[CS课程目录](https://github.com/npu-cs/Course-Material/blob/main/CS课程目录.md)，正值暑假，欢迎同学们上传任意你认为值得上传的课程攻略及资料，包括并不限于我们所列范围，感谢！
+> **重要：** 欢迎同学们上传任意你认为值得上传的课程攻略及资料，感谢！
 
 来到西工大的第一年，我从第一次接触这些课程，到一门门完成，在这过程中，作为信息类专业的学生，我惊讶于学校里资料与课程情报的封闭性：
 
@@ -38,7 +38,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 电脑前的您请不要吝啬，您的作品一旦被合并至该仓库中，有可能会被无数学弟学妹仰慕。我们需要您的 PR！
 
-如果想上传课件（请确保无版权问题），推荐使用pdf格式，避免系统差。
+如果想上传课件（请确保无版权问题），推荐使用pdf格式。
 
 贡献方法主要有以下两种：`Issue`、`Pull Request`：
 
